@@ -31,3 +31,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+.firebase/logs/vsce-debug.log
