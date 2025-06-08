@@ -32,3 +32,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 .firebase/logs/vsce-debug.log
+.vscode/settings.json
